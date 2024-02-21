@@ -1,0 +1,36 @@
+---
+title: "STA 313 - Spring 2024 - HW 3"
+subtitle: "From Du Bois to COVID"
+author: "INSERT YOUR NAME HERE"
+format:
+  html:
+    embed-resources: true
+toc: true
+---
+
+```{r}
+#| label: load-packages
+#| message: false
+
+# add other packages as needed or remove comment
+```
+
+## 1 - Du Bois challenge.
+
+Add parts, narrative, and/or code chunks as needed.
+
+## 2 - COVID survey - interpret.
+
+Add parts, narrative, and/or code chunks as needed.
+
+## 3 - COVID survey - reconstruct.
+
+Add parts, narrative, and/or code chunks as needed.
+
+## 4 - COVID survey - re-reconstruct.
+
+Add parts, narrative, and/or code chunks as needed.
+
+## 5 - COVID survey - another view.
+
+Add parts, narrative, and/or code chunks as needed.
